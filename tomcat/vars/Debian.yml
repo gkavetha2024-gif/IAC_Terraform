@@ -1,0 +1,4 @@
+---
+# vars file for AnsibleTom
+
+JAVA_HOME: /usr/lib/jvm/default-java
